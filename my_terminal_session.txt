@@ -1,3 +1,6 @@
+Jewel Cowan
+Module 1 Project - Transcript
+
 Script started on 2025-10-25 16:56:58-05:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="80" LINES="24"]
 ]666;vte.shell.postexec=0\]7;file://jewel-HP-Notebook/home/jewel\]0;jewel@jewel-HP-Notebook:~\]666;vte.shell.precmd!\[?2004h(base) ]0;jewel@jewel-HP-Notebook: ~[01;32mjewel@jewel-HP-Notebook[00m:[01;34m~[00m$ whoami
 [?2004l]133;C\]666;vte.shell.preexec!\jewel
